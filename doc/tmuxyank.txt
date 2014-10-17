@@ -1,0 +1,7 @@
+*tmuxyank.txt* Plugin for Yanking into tmux buffer
+
+Author:  Ala Ibrahim <http://alaa-ibrahim.com>
+License: Same terms as Vim itself (see |license|)
+Repo:    https://github.com/alaaibrahim/tmuxyank.vim
+
+
