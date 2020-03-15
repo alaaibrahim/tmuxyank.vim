@@ -20,7 +20,7 @@ Options
 =======
 
 The only configuration for this, is the yank command to trigger it, by
-default it's `<leader>tv`, but you can override that by setting the
+default it's `<leader>ty`, but you can override that by setting the
 variable `g:tmuxyank_map`.
 
 ```vim
